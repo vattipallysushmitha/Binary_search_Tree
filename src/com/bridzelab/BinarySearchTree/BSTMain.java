@@ -30,6 +30,8 @@ public class BSTMain
 
         bst.print(root);
         // if condition is true then 1st print o/p is boolean type coz this is boolean method
+       
+        
         System.out.println(bst.nodePresent(root, 63));
         /*
          * if else statement is used if condition is true then print 63 is present is binary tree

@@ -68,6 +68,7 @@ public class BinaryTree
             return false;
         }
         Boolean isPresent = false;
+        
         while (root != null)
         {
                 if (val < root.data)
