@@ -13,7 +13,8 @@ public class Node
 			this.right = right;
 		}
 
-		public Node() {
+		public Node() 
+		{
 			// TODO Auto-generated constructor stub
 		}
 
